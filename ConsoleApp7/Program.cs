@@ -25,6 +25,7 @@ namespace ConsoleApp7
 
             Console.WriteLine(tax);
 
+            Console.WriteLine(ans);
 
 
 
